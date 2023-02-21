@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="100"
+   viewBox="0 0 169 44"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3228492"
+     inkscape:cx="222.24756"
+     inkscape:cy="113.39161"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12832">
+      <stop
+         style="stop-color:#e5ef0d;stop-opacity:1;"
+         offset="0"
+         id="stop12828" />
+      <stop
+         style="stop-color:#c8310e;stop-opacity:0;"
+         offset="0.97824323"
+         id="stop12830" />
+    </linearGradient>
+    <rect
+       x="238.87833"
+       y="541.25596"
+       width="247.94966"
+       height="229.807"
+       id="rect855" />
+    <rect
+       x="24.19021"
+       y="364.36505"
+       width="257.02099"
+       height="192.0098"
+       id="rect171" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12832"
+       id="linearGradient12834"
+       x1="70.603622"
+       y1="169.00862"
+       x2="149.40762"
+       y2="169.00862"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       gradientTransform="matrix(0.95947079,0,0,0.8236218,-25.883265,-120.22532)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter9989"
+       x="-0.00012298393"
+       y="-0.00011715743"
+       width="1.000246"
+       height="1.0002343">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0016612939"
+         id="feGaussianBlur9991" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text853"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Algerian;-inkscape-font-specification:Algerian;white-space:pre;shape-inside:url(#rect855);display:inline;fill:#001f80;fill-opacity:1" />
+    <ellipse
+       style="fill:url(#linearGradient12834);fill-opacity:1;fill-rule:nonzero;stroke-width:0.235202;paint-order:stroke fill markers"
+       id="path12301"
+       cx="79.663918"
+       cy="18.973873"
+       rx="37.805069"
+       ry="32.452347" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.1589px;line-height:4570.03px;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:-19.7876px;baseline-shift:super;fill:#f3ec5e;fill-opacity:1;stroke-width:0.235202"
+       x="55.473457"
+       y="60.831638"
+       id="text113"
+       transform="scale(1.0793243,0.92650559)"><tspan
+         id="tspan111"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.1589px;font-family:Algerian;-inkscape-font-specification:Algerian;baseline-shift:super;fill:#f3ec5e;fill-opacity:1;stroke-width:0.235202"
+         x="55.473457"
+         y="60.831638"
+         sodipodi:role="line"
+         rotate="0 0"
+         dy="17.7791">K</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:Algerian;-inkscape-font-specification:Algerian;mix-blend-mode:normal;fill:#f6ee5a;fill-opacity:0.953608;stroke-width:0.264583;filter:url(#filter9989)"
+       x="75.965889"
+       y="46.069447"
+       id="text167"
+       transform="matrix(0.95947079,0,0,0.8236218,-1.367913,1.8315486)"><tspan
+         sodipodi:role="line"
+         id="tspan165"
+         style="fill:#f6ee5a;fill-opacity:0.953608;stroke-width:0.264583"
+         x="75.965889"
+         y="46.069447">G</tspan></text>
+  </g>
+</svg>
